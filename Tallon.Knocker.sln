@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tallon.Knocker.Core", "Tallon.Knocker.Core\Tallon.Knocker.Core.csproj", "{B1AEF58A-D4B8-4102-971C-5484216FACE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tallon.Knocker.Tests", "Tallon.Knocker.Tests\Tallon.Knocker.Tests.csproj", "{95CD1ADA-A6DA-437E-8C89-190BA67FD2DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tallon.Knocker.TestApplication", "Tallon.Knocker.TestApplication\Tallon.Knocker.TestApplication.csproj", "{C7892A9E-D648-4791-A969-FCBA767BDD5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tallon.Knocker.Service", "Tallon.Knocker.Service\Tallon.Knocker.Service.csproj", "{81B88E99-2F23-4DCD-BF14-CA4B3FAAFCFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tallon.Knocker.Notification", "Tallon.Knocker.Notification\Tallon.Knocker.Notification.csproj", "{8DA5C9D2-DE95-4C54-B530-9BF367D52FDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1AEF58A-D4B8-4102-971C-5484216FACE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1AEF58A-D4B8-4102-971C-5484216FACE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1AEF58A-D4B8-4102-971C-5484216FACE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1AEF58A-D4B8-4102-971C-5484216FACE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95CD1ADA-A6DA-437E-8C89-190BA67FD2DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95CD1ADA-A6DA-437E-8C89-190BA67FD2DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95CD1ADA-A6DA-437E-8C89-190BA67FD2DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95CD1ADA-A6DA-437E-8C89-190BA67FD2DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7892A9E-D648-4791-A969-FCBA767BDD5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7892A9E-D648-4791-A969-FCBA767BDD5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7892A9E-D648-4791-A969-FCBA767BDD5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7892A9E-D648-4791-A969-FCBA767BDD5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81B88E99-2F23-4DCD-BF14-CA4B3FAAFCFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81B88E99-2F23-4DCD-BF14-CA4B3FAAFCFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81B88E99-2F23-4DCD-BF14-CA4B3FAAFCFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81B88E99-2F23-4DCD-BF14-CA4B3FAAFCFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DA5C9D2-DE95-4C54-B530-9BF367D52FDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA5C9D2-DE95-4C54-B530-9BF367D52FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DA5C9D2-DE95-4C54-B530-9BF367D52FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DA5C9D2-DE95-4C54-B530-9BF367D52FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
