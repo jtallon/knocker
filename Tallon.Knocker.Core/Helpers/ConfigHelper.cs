@@ -9,6 +9,11 @@ namespace Tallon.Knocker.Core.Helpers
             get { return ConfigurationManager.AppSettings["PortName"]; }
         }
 
+        public static string PortWildCard
+        {
+            get { return ConfigurationManager.AppSettings["PortWildCard"]; }
+        }
+
         public static int BaudRate
         {
             get

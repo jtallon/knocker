@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tallon.Knocker.Core", "Tallon.Knocker.Core\Tallon.Knocker.Core.csproj", "{B1AEF58A-D4B8-4102-971C-5484216FACE4}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tallon.Knocker.Service", "Tallon.Knocker.Service\Tallon.Knocker.Service.csproj", "{81B88E99-2F23-4DCD-BF14-CA4B3FAAFCFD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tallon.Knocker.Notification", "Tallon.Knocker.Notification\Tallon.Knocker.Notification.csproj", "{8DA5C9D2-DE95-4C54-B530-9BF367D52FDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tallon.Knocker.Console", "Tallon.Knocker.Console\Tallon.Knocker.Console.csproj", "{1ED75C7F-858D-479B-9319-C23469874A2A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{8DA5C9D2-DE95-4C54-B530-9BF367D52FDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8DA5C9D2-DE95-4C54-B530-9BF367D52FDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8DA5C9D2-DE95-4C54-B530-9BF367D52FDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1ED75C7F-858D-479B-9319-C23469874A2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ED75C7F-858D-479B-9319-C23469874A2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ED75C7F-858D-479B-9319-C23469874A2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ED75C7F-858D-479B-9319-C23469874A2A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
